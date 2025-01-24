@@ -32,7 +32,7 @@ The dataset includes three files:
 
 ## Tasks Overview
 
-### Task 1: Exploratory Data Analysis (EDA) and Business Insights
+### [Task 1](https://colab.research.google.com/drive/1UbHPTLnEkmxvT_XYYXZoglncFfDP4YPA?usp=sharing): Exploratory Data Analysis (EDA) and Business Insights 
 - **Objective:** Analyze the dataset to uncover meaningful insights.
 - **Deliverables:**
   - Jupyter Notebook: [Jampana_Jagadeesh_EDA.ipynb](./Jampana_Jagadeesh_EDA.ipynb)
@@ -43,7 +43,7 @@ The dataset includes three files:
 
 ---
 
-### Task 2: Lookalike Model
+### [Task 2](https://colab.research.google.com/drive/1nUL0HN_6wmzfAoEReQXZv8MqKESYKCIG?usp=sharing): Lookalike Model
 - **Objective:** Develop a model to recommend 3 similar customers for a given customer based on profile and transaction history.
 - **Deliverables:**
   - Lookalike CSV: [Jampana_Jagadeesh_Lookalike.csv](./Jampana_Jagadeesh_Lookalike.csv)
@@ -54,7 +54,7 @@ The dataset includes three files:
 
 ---
 
-### Task 3: Customer Segmentation / Clustering
+### [Task 3](https://colab.research.google.com/drive/1zc-J6J_w65ao4VrepLnTQNVQMFaJy7MG?usp=sharing): Customer Segmentation / Clustering
 - **Objective:** Perform customer segmentation using clustering techniques to identify patterns in customer behavior.
 - **Deliverables:**
   - Clustering CSV: [Jampana_Jagadeesh_Clustering.csv](./Jampana_Jagadeesh_Clustering.csv)

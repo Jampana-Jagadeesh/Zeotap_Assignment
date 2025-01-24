@@ -1,0 +1,20 @@
+1. Optimal Number of Clusters:
+	The optimal number of clusters determined was 2.
+
+2. Davies-Bouldin Index:
+	DB Index = 0.9588.
+	Lower values of the DB Index indicate better clustering quality.
+
+3. Cluster Characteristics:
+	Cluster 0:
+	Customers with high transaction frequencies and total transaction values.
+	More representation from North America and Europe regions.
+	Cluster 1:
+	Customers with lower transaction frequencies and total values.
+	Dominant representation from Asia and South America.
+
+4. Visualization:
+	Visualized clusters using:
+	2D scatter plots (based on PCA components).
+	Bar plots for region-wise customer distribution.
+	Box plots for transaction value distributions.
